@@ -1,0 +1,13 @@
+{
+  "name": "proyecto-articulos",
+  "version": "1.0.0",
+  "description": "Proyecto de ejemplo para almacenar datos de artículos con Node.js y SQLite",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "node server/server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "sqlite3": "^5.0.2"
+  }
+}
